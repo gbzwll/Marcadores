@@ -1,0 +1,3 @@
+nota = 10
+s1 = "Você tirou %i na disciplina de Matemática" % nota
+print(s1)
